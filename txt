@@ -1,0 +1,2 @@
+https://blog.csdn.net/linxinfa/article/details/122390621
+把资源托管到GitCode上，我把RemoteLoadPath改为GitCode的地址
